@@ -20,6 +20,10 @@ const config = require('./config');
 
 const Client = new TelegramAPI(config);
 
+var ownId = 33242449;
+var debug = true;
+var msgdebug = false;
+
 Client.connect(connection => {
     connection.on('message', message => {
         console.log('message:', message);
