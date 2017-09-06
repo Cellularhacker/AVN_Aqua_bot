@@ -1,0 +1,29 @@
+{
+  "name": "aqua_bot",
+  "version": "1.0.0",
+  "description": "This bot can forward between sns or social media",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cellularhacker/AVN_Aqua_bot.git"
+  },
+  "keywords": [
+    "SNS",
+    "SocialMedia",
+    "Telegram",
+    "tg-cli",
+    "Nodejs",
+    "Forward",
+    "Message",
+    "BOT"
+  ],
+  "author": "Cellularhacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cellularhacker/AVN_Aqua_bot/issues"
+  },
+  "homepage": "https://github.com/Cellularhacker/AVN_Aqua_bot#readme"
+}
